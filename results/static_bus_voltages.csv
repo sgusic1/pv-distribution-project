@@ -1,0 +1,25 @@
+scenario,bus,voltage_pu
+S0_without_PV,B1 - 110 kV external grid,1.02
+S0_without_PV,B2 - 10 kV substation busbar,1.0193963636587906
+S0_without_PV,B3 - 10 kV Line End,1.0114781652928304
+S0_without_PV,B4 - 0.4 kV consumer and PV,0.9929438314801672
+S1_PV_100kW,B1 - 110 kV external grid,1.02
+S1_PV_100kW,B2 - 10 kV substation busbar,1.01944363730057
+S1_PV_100kW,B3 - 10 kV Line End,1.0132410767521933
+S1_PV_100kW,B4 - 0.4 kV consumer and PV,0.9969321114940989
+S2_PV_300kW,B1 - 110 kV external grid,1.02
+S2_PV_300kW,B2 - 10 kV substation busbar,1.0195101943666907
+S2_PV_300kW,B3 - 10 kV Line End,1.0165936417504116
+S2_PV_300kW,B4 - 0.4 kV consumer and PV,1.0044137855586552
+S3_PV_500kW,B1 - 110 kV external grid,1.02
+S3_PV_500kW,B2 - 10 kV substation busbar,1.0195408557241896
+S3_PV_500kW,B3 - 10 kV Line End,1.019725373997964
+S3_PV_500kW,B4 - 0.4 kV consumer and PV,1.01127021911939
+S4_PV_500kW_low_load,B1 - 110 kV external grid,1.02
+S4_PV_500kW_low_load,B2 - 10 kV substation busbar,1.019817283640032
+S4_PV_500kW_low_load,B3 - 10 kV Line End,1.0241515541822694
+S4_PV_500kW_low_load,B4 - 0.4 kV consumer and PV,1.0254972991691476
+S5_PV_500kW_high_load,B1 - 110 kV external grid,1.02
+S5_PV_500kW_high_load,B2 - 10 kV substation busbar,1.019266825373099
+S5_PV_500kW_high_load,B3 - 10 kV Line End,1.0152760210523941
+S5_PV_500kW_high_load,B4 - 0.4 kV consumer and PV,0.9974000312211134
