@@ -1,0 +1,2 @@
+pv_installed_kw,specific_yield_kwh_per_kw_year,annual_generation_kwh,self_consumption_ratio,self_consumed_energy_kwh,electricity_price_km_per_kwh,investment_cost_km,annual_savings_km,simple_payback_years
+300,1200,360000,0.75,270000.0,0.18,420000,48600.0,8.641975308641975
